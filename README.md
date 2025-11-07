@@ -1,7 +1,3 @@
-Perfect! Here’s your **GitHub-ready README** with some **badges** to make it look professional and appealing:
-
----
-
 # API Calculator 🧮
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python\&logoColor=white)](https://www.python.org/)
@@ -94,8 +90,5 @@ cd frontend
 
 This is **ready to push to GitHub**. You can later update the **Live Demo links** when your Render deployments are live.
 
----
-
-If you want, I can also **make a version of this README with a super clean “one-line project description” at the top** like the professional repos you see on GitHub trending — it will make it extra polished.
 
 Do you want me to do that?
