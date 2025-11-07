@@ -1,19 +1,16 @@
 let currentInput = '';
 const display = document.getElementById('display');
 
-// Append number or operator to the input
 function appendNumber(number) {
     currentInput += number;
     display.value = currentInput;
 }
 
-// Clear the display
 function clearDisplay() {
     currentInput = '';
     display.value = '';
 }
 
-// Send the expression to the backend API and get the result
 async function calculate() {
     if (currentInput === '') return;
 
