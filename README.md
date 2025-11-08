@@ -83,12 +83,5 @@ cd frontend
 
 ## 🔗 Live Demo
 
-* Backend: `[Add your Render API URL here]`
-* Frontend: `[Add your Render frontend URL here]`
-
----
-
-This is **ready to push to GitHub**. You can later update the **Live Demo links** when your Render deployments are live.
-
-
-Do you want me to do that?
+* Backend: https://api-calculator-dss1.onrender.com
+* Frontend: https://api-calculator-front-end.onrender.com
